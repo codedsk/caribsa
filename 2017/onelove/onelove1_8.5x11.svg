@@ -13,7 +13,7 @@
    height="11in"
    width="8.5in"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="onelove1_8x11_20170211.svg"
+   sodipodi:docname="onelove1_8.5x11.svg"
    inkscape:export-filename="/home/derrick/projects/codedsk/caribsa/2017/onelove/onelove1_8.5x11_20170211.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -32,14 +32,14 @@
      showgrid="true"
      showguides="false"
      inkscape:zoom="0.74043195"
-     inkscape:cx="417.83212"
+     inkscape:cx="627.46472"
      inkscape:cy="471.59614"
      inkscape:window-x="109"
      inkscape:window-y="16"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      units="in"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid5308" />
@@ -451,7 +451,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10455,40 +10455,28 @@
          id="tspan5403">CoRec Feature Gym</tspan></text>
     <text
        id="text5431"
-       y="668.83344"
+       y="664.82635"
        x="403.43399"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.12553406px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        sodipodi:linespacing="125%"
        transform="scale(1.0017731,0.99823004)"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
-         y="668.83344"
+         y="664.82635"
          x="403.43399"
          id="tspan5433">Admission: FREE</tspan></text>
     <text
-       id="text5409-3"
-       y="416.89334"
-       x="333.93329"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.12553406px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0017731,0.99823004)"><tspan
-         style="font-size:32.57845688px"
-         y="416.89334"
-         x="333.93329"
-         id="tspan5411-56">Music Sets By:</tspan></text>
-    <text
        id="text5409-3-2"
-       y="416.89334"
-       x="620.62366"
+       y="404.8721"
+       x="442.93872"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.12553406px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        sodipodi:linespacing="125%"
        transform="scale(1.0017731,0.99823004)"><tspan
          style="font-size:32.57845688px"
-         y="416.89334"
-         x="620.62366"
-         id="tspan5411-56-9">Song Sets By:</tspan></text>
+         y="404.8721"
+         x="442.93872"
+         id="tspan5411-56-9">Performances By:</tspan></text>
     <text
        id="text5405-1"
        y="662.78845"
@@ -10503,31 +10491,31 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86768723px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="454.39642"
+       x="446.41058"
        y="464.67508"
        id="text5422"
        sodipodi:linespacing="125%"
        transform="scale(1.0017731,0.99823004)"><tspan
          sodipodi:role="line"
          id="tspan5424"
-         x="454.39642"
+         x="446.41058"
          y="464.67508"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Northern</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Northern</tspan><tspan
          sodipodi:role="line"
-         x="454.39642"
-         y="512.1853"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         x="446.41058"
+         y="508.42508"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5466">Illinois</tspan><tspan
          sodipodi:role="line"
-         x="454.39642"
-         y="559.69556"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         x="446.41058"
+         y="552.17505"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5468">University</tspan><tspan
          sodipodi:role="line"
-         x="454.39642"
-         y="607.20581"
+         x="446.41058"
+         y="595.92505"
          id="tspan5428"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Steelband</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Steelband</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86768723px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10540,21 +10528,21 @@
          id="tspan5424-0"
          x="731.77448"
          y="466.42242"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">BCC</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.99999997px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">BCC</tspan><tspan
          sodipodi:role="line"
          x="738.38135"
          y="513.93268"
          id="tspan5428-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Black </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.99999997px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Black </tspan><tspan
          sodipodi:role="line"
          x="738.38135"
          y="561.44293"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.99999997px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5458">Voices of </tspan><tspan
          sodipodi:role="line"
          x="731.77448"
          y="608.95319"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.0082016px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.99999997px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5460">Inspiration</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -10566,5 +10554,10 @@
            height="150"
            x="-350"
            y="260.75635" /></flowRegion><flowPara
-         id="flowPara23538" /></flowRoot>  </g>
+         id="flowPara23538" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 586.6318,428.37166 c 0,180 0,180 0,180"
+       id="path6158"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
